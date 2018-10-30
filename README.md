@@ -55,6 +55,16 @@ launch ec2 instance --> select low cost for training purpose. Even if amazon say
 7. pair key 
 8. launch instance
 
+Once application is launched.
+Note if you are on linux/mac we just need pem key as is
+
+Only if on windows
+Inorder to open it in windows machine. you have to make an setup to connect password less.  
+
+By creating a ppk key for putty to connect using puttygen tool <-- puttygen tool takes pem file in order to convert to ppk file
+
+Once you have the ppk file. open putty and navigate to ssh section->auth and then load the ppk file which was created.
+
 
 
 
