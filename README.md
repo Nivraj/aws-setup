@@ -67,6 +67,11 @@ Once you have the ppk file. open putty and navigate to ssh section->auth and the
 
 
 
+Appendix
+https://github.com/ep33-eps
+
+
+
 
 
 
