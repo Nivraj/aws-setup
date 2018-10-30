@@ -42,4 +42,22 @@ create rule for the security group
 inbound 
 outbound 
 
+create keypairs
+download pem key
+launch ec2 instance --> select low cost for training purpose. Even if amazon says free tire its only for limited services.
+
+1. Choose AMI we created
+2. Choose Instance
+3. configure Instance
+4. Add storage
+5. Add tags
+6. Add security group
+7. pair key 
+8. launch instance
+
+
+
+
+
+
 
