@@ -11,7 +11,7 @@ Steps to create bucket
  
  
  2. configuring and setting permissions
-  3. 
+ 3. 
  
  
  
@@ -49,4 +49,7 @@ Steps to create bucket
  Access - available globals\
  protocals used - TCP/IP & Https \
  Not secured\
+ 
+ s3 Fuse can convert s3 bucket into mountable device but its not propriotery from aws
+ 
  
