@@ -27,17 +27,26 @@ Steps to create bucket
  IAAS|EC2|EBS|VPC|SUBNET|OS
  
  
- #AWS Storage types
- Block storage
+ # AWS Storage types
+ Block storage - Region specific
  1. File system based
  2. SAN - 
  3. P2P - Point to point storage.
  Divided into 2 types\
  **EBS & Instances store**\
  **EBS** - *persistance on disck for time period* \
- **Instance store** - *Session level storage*\
- File storage
+ **Instance store** - *Session level storage* \
  
- Object storage
+ # File storage
+ 1. Shared File system
+ 2. EFS - Elastic File system
+ 3. NAS - Network Attached Storage
+ 4. Access can happen between 1-*
+ protocals used - NAS related protocals\
+ secured
  
+ # Object storage - Rest full services
+ Access - available globals\
+ protocals used - TCP/IP & Https \
+ Not secured\
  
