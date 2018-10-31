@@ -8,6 +8,11 @@ Steps to create bucket
   
   copying content on to s3 box using command
   > aws s3 cp JQFileUpload.war s3://ep16-repo   
+  
+  copying content from s3 to local
+  > aws s3 sync s3://ep16-repo/JQFileUpload.war .  
+  
+  
  
  
  2. configuring and setting permissions
